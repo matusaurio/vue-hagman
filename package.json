@@ -1,7 +1,7 @@
 {
   "name": "vue_hangman_game",
   "version": "0.1.0",
-  "homepage": "https://matusaurio.github.io/vue-hangman-game",
+  "homepage": "https://matusaurio.github.io/vue-hangman",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",

@@ -1,7 +1,7 @@
 # Hangman Game
 Hangman game made with Vue.js
 
-Visit site: [Hangman Game](https://matusaurio.github.io/vue-hangman-game)
+Visit site: [Hangman Game](https://matusaurio.github.io/vue-hangman)
 
 ## Project setup
 ```
