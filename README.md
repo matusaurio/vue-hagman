@@ -1,4 +1,5 @@
-# vue_hangman_game
+# Hangman Game
+Hangman game made with Vue.js
 
 ## Project setup
 ```
