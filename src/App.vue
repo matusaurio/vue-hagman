@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>HANGMAN GAME</h1>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="350px" height="260px" viewBox="0 0 350 275"
       preserveAspectRatio="xMidYMid meet">
       <line v-if="strikes > 0" x1="80" y1="257" x2="260" y2="257" style="stroke:black;fill:none;stroke-width:2px;" />
